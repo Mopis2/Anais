@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'anais',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'VQz1tV24BwZNI2vsmCVCCnZSpTe4WRhZWm7mLuyyIUTBJfDKHFF4wUuRahAsy27h',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2021-02-26',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'w15I6LJO7OrSNgwHGI0BWI2K54Xqbbvmqms1KubZ5o4L4PeMenBTTN3JYWYKTgyq',
+    'cookie_iv' => 'RHieL6fadA48v7joG34AnNNeqc0VgWL7',
+    'new_cookie_key' => 'def00000e2f36ee6fa864dbfced7cf49d3256d20960013316e2d70f00184fe52caa8c4af4d5389fb1c8b15d46f22fe0eef51b662f06772d039da0dc93f30085192b38799',
+  ),
+);

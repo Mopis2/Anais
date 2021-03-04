@@ -1,0 +1,91 @@
+1614758150
+s:6542:"<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Women in Tech : Interview avec l’ambassadrice PrestaShop Mary Montesinos </title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-ambassador-mary-montesinos</link>
+    <description>Malheureusement, il y a très peu de femmes dans l&#039;industrie technologique. Nous aimerions que cela change.</description>
+     <pubDate>Mon, 22 Feb 2021 18:22:59 +0100</pubDate>
+ <dc:creator>Océane Juste</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-ambassador-mary-montesinos</guid>
+  </item>
+  <item>
+    <title>Service client : 8 conseils pour l’améliorer</title>
+    <link>https://www.prestashop.com/fr/blog/service-client-conseils</link>
+    <description>Le produit et le prix auquel il est vendu ne sont pas les seuls critères de différenciation en matière de vente en ligne, la qualité du service client peut également se révéler être un véritable av</description>
+     <pubDate>Fri, 19 Feb 2021 17:33:52 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/service-client-conseils</guid>
+  </item>
+  <item>
+    <title>Comment exploiter au mieux votre chaîne YouTube ?</title>
+    <link>https://www.prestashop.com/fr/blog/exploiter-youtube-ecommerce</link>
+    <description>Avec plus de 2 milliards d’utilisateurs par mois dans le monde, YouTube est sans conteste une mine d’or pour tout e-commerçant.</description>
+     <pubDate>Fri, 12 Feb 2021 10:39:20 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/exploiter-youtube-ecommerce</guid>
+  </item>
+  <item>
+    <title>Les e-commerçants ont la parole : quelle Saint-Valentin les attend cette année ?</title>
+    <link>https://www.prestashop.com/fr/blog/saint-valentin-marchands</link>
+    <description>Grand rendez-vous des amoureux, la Saint-Valentin s’inscrit parmi les temps forts commerciaux de l’année et tend d’ailleurs à prendre la 3e place dans certains secteurs d’activité.</description>
+     <pubDate>Tue, 09 Feb 2021 16:19:07 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/saint-valentin-marchands</guid>
+  </item>
+  <item>
+    <title>Amazon Pay optimise l&amp;#039;expérience de paiement pour les entreprises PrestaShop grâce à son dernier lancement</title>
+    <link>https://www.prestashop.com/fr/blog/amazon-pay-prestashop</link>
+    <description>Désormais, les marchands PrestaShop peuvent optimiser leur expérience de paiement pour les clients Amazon grâce au dernier lancement d&#039;Amazon Pay.</description>
+     <pubDate>Mon, 08 Feb 2021 18:37:47 +0100</pubDate>
+ <dc:creator>Alberto Moreno</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/amazon-pay-prestashop</guid>
+  </item>
+  <item>
+    <title>Comment améliorer l&amp;#039;accessibilité de votre boutique en ligne ?</title>
+    <link>https://www.prestashop.com/fr/blog/accessibilite-ecommerce-boutique</link>
+    <description>Alors que l’accès physique des personnes handicapées aux ERP est une obligation, le numérique devrait, lui aussi, reposer sur un principe d’égalité quant à son accès.</description>
+     <pubDate>Fri, 05 Feb 2021 15:39:21 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/accessibilite-ecommerce-boutique</guid>
+  </item>
+  <item>
+    <title>Comment la boutique en ligne Habitium s’appuie sur PrestaShop pour sa croissance en France et en Europe</title>
+    <link>https://www.prestashop.com/fr/blog/habitium-prestashop-croissance</link>
+    <description>Afin d’en savoir davantage sur le succès de la boutique en ligne Habitium - spécialiste des produits de rénovation et de construction - et notamment sur son développement rapide en France, nous avo</description>
+     <pubDate>Tue, 02 Feb 2021 15:49:04 +0100</pubDate>
+ <dc:creator>L&#039;équipe PrestaShop</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/habitium-prestashop-croissance</guid>
+  </item>
+  <item>
+    <title>Tout ce que vous devez savoir sur les modules intégrés </title>
+    <link>https://www.prestashop.com/fr/blog/modules-integres-prestashop</link>
+    <description>Saviez-vous que PrestaShop 1.7.7 compte 88 modules intégrés ? Ce sont 88 façons de booster votre activité, directement depuis votre back-office.</description>
+     <pubDate>Tue, 02 Feb 2021 10:34:46 +0100</pubDate>
+ <dc:creator>Julie Varisellaz FR</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/modules-integres-prestashop</guid>
+  </item>
+  <item>
+    <title>Les actualités de la 5G et de l’e-commerce sur les mobiles</title>
+    <link>https://www.prestashop.com/fr/blog/5g-e-commerce-mobiles</link>
+    <description>Depuis la crise sanitaire du coronavirus et du confinement, les ventes en ligne ont pris une grande ampleur.</description>
+     <pubDate>Tue, 26 Jan 2021 11:34:09 +0100</pubDate>
+ <dc:creator>Halima Guaroual</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/5g-e-commerce-mobiles</guid>
+  </item>
+  <item>
+    <title>Remercier vos clients : les clés de la fidélisation</title>
+    <link>https://www.prestashop.com/fr/blog/remercier-clients-fidelisation</link>
+    <description>Conquérir le cœur de nouveaux clients est une chose. Garder ceux que l’on a en est une autre !</description>
+     <pubDate>Fri, 22 Jan 2021 15:30:04 +0100</pubDate>
+ <dc:creator>YATEO</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/remercier-clients-fidelisation</guid>
+  </item>
+  </channel>
+</rss>
+";

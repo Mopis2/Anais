@@ -1,0 +1,141 @@
+/*Body*/
+@font-face {
+    font-family: "SpyAgency";
+    src: url("../fonts/spyagency3_2.ttf");
+}
+
+@font-face {
+    font-family: "HP Simplified";
+    src: url("//db.onlinewebfonts.com/t/6cb78fb592f9a8244397b1bd220d6453.eot");
+    src: url("//db.onlinewebfonts.com/t/6cb78fb592f9a8244397b1bd220d6453.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6cb78fb592f9a8244397b1bd220d6453.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6cb78fb592f9a8244397b1bd220d6453.woff") format("woff"), url("//db.onlinewebfonts.com/t/6cb78fb592f9a8244397b1bd220d6453.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6cb78fb592f9a8244397b1bd220d6453.svg#HP Simplified") format("svg");
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: "SpyAgency";
+    color: #131c29;
+}
+
+p {
+    font-family: "HP Simplified";
+}
+
+/*Header*/
+
+#header a {
+    color: #474955;
+}
+
+#header .header-top a[data-depth="0"] {
+    color: #0a6795;
+}
+
+/*Rechercher*/
+.search-widget form input[type=text] {
+    border: 2px solid #474955;
+}
+
+.material-icons {
+    margin-bottom: 4px;
+}
+
+/*Panier*/
+#header .header-nav .blockcart {
+    background-color: #474955;
+}
+
+#header .header-nav .cart-preview .shopping-cart {
+    color: #E4E4E4;
+}
+
+/*Slider*/
+.carousel .carousel-item .caption .caption-description .page-content.page-cms ul,
+.carousel .carousel-item .caption .caption-description p,
+.page-content.page-cms .carousel .carousel-item .caption .caption-description ul {
+    color: #E4E4E4;
+}
+
+/*Section*/
+
+/*Footer*/
+footer {
+    background-color: #131C29;
+}
+
+footer p a {
+    color: #E4E4E4;
+}
+
+.block_newsletter {
+    background-color: #131c29;
+}
+
+.footer-container,
+.container,
+.row,
+p {
+    color: #E4E4E4;
+}
+
+#wrapper {
+    background-color: #E4E4E4;
+}
+
+#header {
+    background-color: #E4E4E4;
+}
+
+#header .header-nav {
+    background-color: #E4E4E4;
+}
+
+.footer-container li a {
+    color: #E4E4E4;
+}
+
+.footer-container li a:hover {
+    color: #539f56;
+}
+
+.block-contact {
+    color: #E4E4E4;
+}
+
+.block-contact:hover {
+    color: #539f56;
+}
+
+a:focus,
+a:hover {
+    color: #539f56;
+}
+
+.h3 {
+    color: #0a6795;
+}
+
+#block_myaccount_infos .myaccount-title a {
+    color: #0a6795;
+}
+
+.block-contact .block-contact-title,
+.linklist .blockcms-title a {
+    color: #0a6795;
+}
+
+.dropdown {
+    color: #E4E4E4;
+}
+
+/*Bouton Footer*/
+.btn-primary {
+    background-color: #474955;
+    color: #e4e4e4;
+}
+
+.btn-primary:hover {
+    background-color: #539f56;
+    color: #e4e4e4;
+}
