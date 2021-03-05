@@ -1,0 +1,18 @@
+1614945922
+s:3212:"HTTP/1.1 200 OK
+Server: nginx
+Date: Fri, 05 Mar 2021 10:05:22 GMT
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Vary: Accept-Encoding
+X-XSS-Protection: 1; mode=block;
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Feature-Policy: accelerometer 'self'; ambient-light-sensor 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; picture-in-picture *; speaker 'self'; sync-xhr *; usb 'self'; vr 'self';
+X-Permitted-Cross-Domain-Policies: none
+Expect-CT: enforce, max-age=604800
+X-Backend-Server: vm2731.jn-hebergement.com
+
+{"modules":[{"id":"23868","name":"ps_languageselector","displayName":"Language selector block","categoryName":"Blocs, Onglets & Banni\u00e8res","description":"Affichez un s&eacute;lecteur de langue sur votre boutique en ligne afin que vos clients puissent effectuer leurs achats dans leur langue","author":"PrestaShop","url":"https:\/\/addons.prestashop.com\/fr\/blocs-onglets-bannieres\/23868-language-selector-block.html?utm_source=back-office&utm_medium=push-addons&utm_campaign=back-office-FR&utm_content=download","serviceUrl":"","img":"https:\/\/medias1.prestastore.com\/img\/pico\/23868.jpg","fullDescription":"Affichez un s&eacute;lecteur de langue sur votre boutique en ligne afin que vos clients puissent effectuer leurs achats dans leur langue.","additionalDescription":"Servez-vous de ce module pour :\r\n<ul>\r\n\t<li><strong>Vendre &agrave; l&#39;international : <\/strong>gagnez une client&egrave;le transfrontali&egrave;re en rendant possible la navigation de vos visiteurs dans la langue de leur choix.<\/li>\r\n<\/ul>\r\n","features":"Avec ce module, vos clients peuvent s&eacute;lectionner la langue de leur choix pour naviguer sur votre site. Il affiche toutes les langues disponibles en front office. Vous pouvez les ajouter depuis la section &#39;International&#39; de votre back office, notamment en important des packs de localisation, depuis la page &#39;Langues&#39;.<br \/>\r\n<br \/>\r\nPar d&eacute;faut, le s&eacute;lecteur de langue s&#39;affiche dans l&#39;en-t&ecirc;te (header) de votre boutique mais il peut &ecirc;tre greff&eacute; &agrave; un autre point d&#39;accroche pour appara&icirc;tre ailleurs sur votre site.","customer_benefits":"","demo_video":"","version":"2.1.0","last_update":"2021-03-04 12:59:13","compatibility":{"from":"1.7.1.0","to":"1.7.7.2"},"price":{"EUR":0,"USD":0,"GBP":0},"badges":[{"label":"R\u00e9alis\u00e9 par PrestaShop","img":"https:\/\/medias2.prestastore.com\/themes\/prestastore\/img\/front\/sprites\/badges\/made-by-prestashop.png"}],"cover":{"small":"https:\/\/medias3.prestastore.com\/1271862-pprod\/language-selector-block.jpg","big":"https:\/\/medias3.prestastore.com\/1271862-pbig\/language-selector-block.jpg"},"pictures":{"small":["https:\/\/medias3.prestastore.com\/1271861-pprod\/language-selector-block.jpg"],"big":["https:\/\/medias3.prestastore.com\/1271861-pbig\/language-selector-block.jpg"]}}]}";
