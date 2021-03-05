@@ -2052,6 +2052,7 @@ class AdminContainer extends \PrestaShop\PrestaShop\Adapter\Container\LegacyCont
                 62 => 'ps_buybuttonlite',
                 63 => 'ps_checkout',
                 64 => 'blockreassurance',
+                65 => 'ps_newproducts',
             ],
             'ps_cache_dir' => 'C:\\wamp64\\www\\anais/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',

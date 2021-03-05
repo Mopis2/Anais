@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.34-dev-7, created on 2021-03-02 10:51:31
+/* Smarty version 3.1.34-dev-7, created on 2021-03-04 15:13:15
   from 'C:\wamp64\www\anais\modules\welcome\views\contents\welcome.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.34-dev-7',
-  'unifunc' => 'content_603e0aa3ed9ea4_83291594',
+  'unifunc' => 'content_6040eafb992bf0_30825586',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_603e0aa3ed9ea4_83291594 (Smarty_Internal_Template $_smarty_tpl) {
+function content_6040eafb992bf0_30825586 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="onboarding-welcome">
   <i class="material-icons onboarding-button-shut-down">close</i>
