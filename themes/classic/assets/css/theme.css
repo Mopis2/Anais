@@ -626,7 +626,8 @@ h6 {
 }
 
 .display-1 {
-    font-size: 3.125rem;
+	/*Benoit*/
+    font-size: 4.5rem;
     font-weight: 600
 }
 
@@ -9549,7 +9550,7 @@ body#checkout #hook-display-after-carrier>[class^=col].links .row>[class^=col] {
 }
 
 .carousel .carousel-inner {
-    height: 340px
+    height: 540px;
 }
 
 .carousel .carousel-item {
@@ -9564,10 +9565,12 @@ body#checkout #hook-display-after-carrier>[class^=col].links .row>[class^=col] {
 
 .carousel .carousel-item .caption {
     position: absolute;
-    bottom: 28px;
+    /*Benoit*/
+    bottom: 148px;
     left: 90px;
-    color: #fff;
-    max-width: 340px
+    color: #E4E4E4;
+    /*Benoit*/
+    max-width: 560px;
 }
 
 .carousel .carousel-item .caption .caption-description .page-content.page-cms ul,
